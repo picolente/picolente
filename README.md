@@ -8,4 +8,5 @@
 
 <h3>Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=clion,idea,phpstorm,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=clion,idea,phpstorm)](https://skillicons.dev)
+
