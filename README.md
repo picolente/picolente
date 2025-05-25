@@ -15,4 +15,4 @@
 
 ### Stats
 
-![Github Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=picolente&theme=synthwave)
+![Github Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=picolente&theme=moonlight)
