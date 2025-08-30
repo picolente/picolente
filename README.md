@@ -1,5 +1,7 @@
 ## Hi🐳
 
+![Github Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=picolente&theme=moonlight)
+
 ### Languages/Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -12,7 +14,3 @@
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-
-### Stats
-
-![Github Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=picolente&theme=moonlight)
